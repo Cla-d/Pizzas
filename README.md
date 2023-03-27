@@ -43,9 +43,6 @@ The following routes have been set up:
 
 If a request is made with invalid parameters, the API will respond with a JSON error message.
 
-**Contributing**
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/Wattima/pizzas. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
 
 **License**
 
